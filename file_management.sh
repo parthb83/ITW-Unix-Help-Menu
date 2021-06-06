@@ -56,7 +56,7 @@ do
             read file_path
         done
 
-        rm $file
+        rm $file_path
         echo "File removed."
     fi
 
